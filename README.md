@@ -36,7 +36,7 @@ curl https://sh.rustup.rs -sSf | sh
 
 
 ## install cargo if needed
-sudo apt install cargo
+`sudo apt install cargo`
 
 ## install sui using cargo
 
